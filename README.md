@@ -19,6 +19,3 @@ project/
 pip install -r requirements.txt
 python src/forest_processor.py
 ```
-
-## Student: [Your Name]
-ID: [Your Student ID]
