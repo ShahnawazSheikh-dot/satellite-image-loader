@@ -1,10 +1,24 @@
-# Satellite Image Processor
+# Satellite Forest Habitat Analyzer
 
-## How to Run:
+## Project Description
+Processes satellite imagery of forest areas for wildlife habitat analysis.
+
+## Project Structure
+```
+project/
+├── src/forest_processor.py
+├── images/raw/
+├── images/processed/
+├── results/
+├── requirements.txt
+└── README.md
+```
+
+## How to Run
+```bash
 pip install -r requirements.txt
-python src/image_loader.py
+python src/forest_processor.py
+```
 
-## Project has these folders:
-- src/ - contains the code
-- data/ - contains satellite images  
-- results/ - contains output images
+## Student: [Your Name]
+ID: [Your Student ID]
